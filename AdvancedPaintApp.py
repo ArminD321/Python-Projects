@@ -1,3 +1,9 @@
+'''
+Paint App Project
+Author: Armin Dhadli
+Date: October 20 2024
+'''
+
 from tkinter import *
 from tkinter.colorchooser import askcolor
 
